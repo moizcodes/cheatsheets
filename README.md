@@ -1,2 +1,2 @@
-# cheatsheets
-Collection of my Cheatsheets 
+# Cheatsheets Collection
+
